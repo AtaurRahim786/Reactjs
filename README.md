@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Tata Consultancy Services** as System Engineer
 
-- 🌱 I’m currently learning **React , Material UI**
+- 🌱 I’m currently learning **React **
 
 - 📫 How to reach me **rahimataur929@gmail.com**
 
